@@ -9,7 +9,7 @@
   <a href="mailto:peresano.michele@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo">
   </a>
-  <a href="https://stackoverflow.com/users/10401171/michele-peresano"
+  <a href="https://stackoverflow.com/users/10401171/michele-peresano">
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo">
   </a>
 </div>
