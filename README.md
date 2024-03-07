@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a post-doctoral researcher at the University of Turin and at the Italian Institute for Nuclear Physics<br>- 📚 I'm currently learning C++20 and Rust<br>- ⚡ In my free time I like to hike, climb, ski, drink...</p>
+<p align="left">- 🔭 I’m working as a post-doctoral researcher at the Max-Planck-Institut for Physics working on Very High energy astrophysics using imaging atmospheric Cherenkov telescopes <br>- 📚 I'm currently learning C++20 and Rust<br>- ⚡ In my free time I like to hike, climb, ski, drink...</p>
 
 ###
 
