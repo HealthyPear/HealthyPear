@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a post-doctoral researcher at the Max-Planck-Institut for Physics working on Very High energy astrophysics using imaging atmospheric Cherenkov telescopes <br>- 📚 Python aficionado, but learning C++20 and Rust<br>- ⚡ In my free time I like to hike, climb and ski!</p>
+<p align="left">- 🔭 I’m working as a post-doctoral researcher at the Max-Planck-Institut for Physics working on Very High energy astrophysics using imaging atmospheric Cherenkov telescopes <br>- 📚 Python aficionado, but learning C++20 and Rust<br/> - ⚙️ I care about well-documented, public and reproducible results <br/>- ⚡ In my free time I like to hike, climb and ski!</p>
 
 ###
 
