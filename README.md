@@ -30,6 +30,18 @@
 
 ###
 
+<h3 align="left">👷:  Projects</h3>
+
+###
+
+Otherwise stated, these are the projects of which I am the main author and maintainer:
+
+- [showyourwork](https://github.com/showyourwork/showyourwork) (current active maintainer and contributor)
+- [Pitztal Ice News Monitor](https://github.com/HealthyPear/pitztal-ice-news-monitor)
+- [papertrail](https://github.com/HealthyPear/papertrail)
+
+###
+
 <h3 align="center">🛠 Languages and tools</h3>
 
 ###
