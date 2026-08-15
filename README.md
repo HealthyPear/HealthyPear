@@ -36,9 +36,9 @@
 
 Otherwise stated, these are the projects of which I am the main author and maintainer:
 
-- [showyourwork](https://github.com/showyourwork/showyourwork) (current active maintainer and contributor)
-- [Pitztal Ice News Monitor](https://github.com/HealthyPear/pitztal-ice-news-monitor)
-- [papertrail](https://github.com/HealthyPear/papertrail)
+- [showyourwork](https://github.com/showyourwork/showyourwork), a workflow management tool for open source scientific articles - current active maintainer and contributor
+- [Pitztal Ice News Monitor](https://github.com/HealthyPear/pitztal-ice-news-monitor), a web-scraper connected to a Telegram channel about ice climbing conditions in the Pitztal valley (Austria) - author and maintainer
+- [papertrail](https://github.com/HealthyPear/papertrail), a Python package to etrieve author publications and compute bibliometric metrics - author and maintainer
 
 ###
 
